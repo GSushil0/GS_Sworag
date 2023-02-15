@@ -326,4 +326,7 @@ color: rgb(230, 27, 27);
     .paras{
         padding: 20px;
     }
+    .form-input{
+    padding: 5px 1px;
+}
 }
