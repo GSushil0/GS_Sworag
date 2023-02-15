@@ -343,13 +343,13 @@ color: rgb(230, 27, 27);
     }
     .btn{
     padding: 7px 15px;
-    margin: 10px;
+/*     margin: 10px; */
 
 }
     
     
     .logo img {
-    margin-left: 16px;
+    margin-left: 9px;
     width: 250%;
 }
 
@@ -358,7 +358,7 @@ color: rgb(230, 27, 27);
     }
     
     .nav-list li {
-    padding: 22px 2px 22px 25px;
+    padding: 22px 2px 22px 17px;
 
 }
     
