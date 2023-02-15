@@ -315,7 +315,7 @@ color: rgb(230, 27, 27);
     }
     
     .text-small{
-        font-size: 13px;
+        font-size: 15px;
          text-align: justify;
     }
     .text-big{
@@ -334,6 +334,7 @@ color: rgb(230, 27, 27);
     .form-input{
     padding: 5px 1px;
     }
+    
     .text-center{
     font-size: 10px;
     
