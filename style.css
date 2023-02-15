@@ -341,13 +341,14 @@ color: rgb(230, 27, 27);
     margin-top: 35px;
     margin-left: 2px;
     }
-    .btn{
-    padding: 7px 15px;
-/*     margin: 10px; */
-
+    
+    
+    .btn {
+    padding: 1px 1px;
+    /* margin: 1px; */
+    margin-right: 2px;
+    margin-left: 0px;
 }
-    
-    
     .logo img {
     margin-left: 9px;
     width: 250%;
