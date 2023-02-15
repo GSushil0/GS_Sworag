@@ -312,9 +312,11 @@ color: rgb(230, 27, 27);
     }
     
     .text-small{
+        font-size: 13px;
         text-align: center;
     }
     .text-big{
+        font-size: 19px;
         text-align: center;
     }
     .buttons{
