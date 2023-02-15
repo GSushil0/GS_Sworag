@@ -260,14 +260,14 @@ color: rgb(230, 27, 27);
     color: white;
 }
 
-.burger{
+/* .burger{
         display: none;
         position: absolute;
         cursor: pointer;
         right: 5%;
         top: 15px;
 
-}
+} */
 
 .line{
 
@@ -349,7 +349,7 @@ color: rgb(230, 27, 27);
     
     
     .logo img {
-    margin-left: 17px;
+    margin-left: 16px;
     width: 250%;
 }
 
