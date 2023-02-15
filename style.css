@@ -328,5 +328,9 @@ color: rgb(230, 27, 27);
     }
     .form-input{
     padding: 5px 1px;
-}
-}
+    }
+    .text-center{
+    font-size: 10px;
+    
+    }
+ }
