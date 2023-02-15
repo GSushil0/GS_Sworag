@@ -119,6 +119,7 @@ color: rgb(230, 27, 27);
 }
 
 .text-big{
+    margin-top: 20px;
     font-size: 35px;
     color: rgb(255, 255, 255);
 }
@@ -340,4 +341,15 @@ color: rgb(230, 27, 27);
     margin-top: 35px;
     margin-left: 2px;
     }
+    .btn{
+    padding: 7px 15px;
+    margin: 10px;
+
+}
+    
+    
+    
+    
+    
+    
  }
