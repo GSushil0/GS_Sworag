@@ -125,6 +125,7 @@ color: rgb(230, 27, 27);
 }
 
 .text-small{
+     text-align: justify;
     margin: 25px;
     font-size: 23px;
     color: rgb(153 143 143);
@@ -315,7 +316,7 @@ color: rgb(230, 27, 27);
     
     .text-small{
         font-size: 13px;
-        text-align: center;
+         text-align: justify;
     }
     .text-big{
         margin-top: 18px;
