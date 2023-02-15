@@ -352,7 +352,14 @@ color: rgb(230, 27, 27);
     width: 250%;
 }
 
+    .nav-list{
+      width: 28%;
+    }
     
+    .nav-list li {
+    padding: 22px 15px 22px 30px;
+
+}
     
     
  }
