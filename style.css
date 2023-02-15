@@ -299,9 +299,11 @@ color: rgb(230, 27, 27);
         opacity: 0;
     }
     .section-Right{
+        margin-top: 90px;
         flex-direction: column-reverse;
     }
     .section-left{
+        margin-top: 90px;
         flex-direction: column-reverse;
     }
     
