@@ -326,8 +326,10 @@ color: rgb(230, 27, 27);
     .buttons{
         text-align: center;
     }
-    .paras{
-        padding: 20px;
+    
+     .paras{
+        width: 100%;
+        padding: 20px 0;
     }
     .form-input{
     padding: 5px 1px;
@@ -362,6 +364,9 @@ color: rgb(230, 27, 27);
     padding: 22px 2px 22px 17px;
 
 }
-    
+    .firstHalf{
+    width: 100%;
+
+}
     
  }
