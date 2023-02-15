@@ -276,14 +276,13 @@ color: rgb(230, 27, 27);
     margin: 3px 3px;
 }
 @media only screen and (max-width:773px){
-    .nav-list{
-        /* flex-direction: column; */
+/*     .nav-list{
+        flex-direction: column; 
         flex-direction: column-reverse;
-
-    }
+      } */
     .navbar{
         height: 440px;
-        flex-direction: column;
+/*         flex-direction: column; */
         transition: all 0.7s ease-out;
     }
     .rightNav{
@@ -348,7 +347,11 @@ color: rgb(230, 27, 27);
 }
     
     
-    
+    .logo img {
+    margin-left: 17px;
+    width: 250%;
+}
+
     
     
     
