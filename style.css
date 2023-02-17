@@ -162,14 +162,6 @@ color: rgb(230, 27, 27);
     border: 2px solid gray;
 }
 
-.section-Right{
-   /* padding: auto; */
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    max-width: 100%;
-    margin: auto;
-    max-height: 650px;
 
 }
 .section-Right img{
@@ -204,7 +196,7 @@ color: rgb(230, 27, 27);
 
 .sectionTag{
     margin-top: 35px;
-    margin-left: 333px;
+    margin-left: 29px;
     color: black;
     padding: 16px 0;
 }
