@@ -213,6 +213,15 @@ color: rgb(230, 27, 27);
      align-items: center;
     
 }
+
+.thumbnail-R img{
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 26px;
+    margin-top: 19px;
+     align-items: center;
+}
+
 .contact{
     background-color: #a2719447;
     color: rgb(0, 0, 0);
@@ -386,4 +395,8 @@ color: rgb(230, 27, 27);
     align-items: center;
 }
     
+   
+    .thumbnail-R img{
+    align-items: center;
+}
  }
