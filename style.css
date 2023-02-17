@@ -397,6 +397,7 @@ color: rgb(230, 27, 27);
     
    
     .thumbnail-R img{
+        margin-left: 50px;
     align-items: center;
 }
  }
