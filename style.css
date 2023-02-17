@@ -287,7 +287,7 @@ color: rgb(230, 27, 27);
         transition: all 0.7s ease-out;
     }
     .rightNav{
-        text-align: center;
+         display: none;
     }
     #search{
         width: 100%;
@@ -356,9 +356,14 @@ color: rgb(230, 27, 27);
     margin-left: 9px;
     width: 250%;
 }
+    
+    .logo{
+
+    justify-content: right;
+}
 
     .nav-list{
-      width: 28%;
+      width: 80%;
     }
     
     .nav-list li {
