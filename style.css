@@ -68,7 +68,7 @@ color: rgb(230, 27, 27);
 
 }
 .background{
-    background: rgba(0, 0, 0, 0.3) url('aigirl.jpg');
+    background: rgba(0, 0, 0, 0.3) url('eye.jpg');
     background-size: cover;
     background-blend-mode: darken;
     display: flex;
