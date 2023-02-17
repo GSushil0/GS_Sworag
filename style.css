@@ -206,12 +206,11 @@ color: rgb(230, 27, 27);
 }
 
 .thumbnail img{
-    margin-left: 500px;
     width: 250px;
     border: 2px solid black;
     border-radius: 26px;
     margin-top: 19px;
-
+     align-items: center;
     
 }
 .contact{
@@ -382,8 +381,9 @@ color: rgb(230, 27, 27);
      cursor: pointer; 
 }  
     
-    .thumbnail img {
-    margin-left: 50px;
-    }
+ 
+    .thumbnail img{
+    align-items: center;
+}
     
  }
