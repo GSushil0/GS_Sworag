@@ -363,11 +363,12 @@ color: rgb(230, 27, 27);
 }
 
     .nav-list{
-      width: 80%;
+      margin-right: 200px;
+      width: 28%;
     }
     
     .nav-list li {
-    padding: 22px 2px 22px 17px;
+    padding: 1px 1px 1px 17px;
 
 }
     .firstHalf{
