@@ -382,4 +382,8 @@ color: rgb(230, 27, 27);
      cursor: pointer; 
 }  
     
+    .thumbnail img {
+    margin-left: 50px;
+    }
+    
  }
