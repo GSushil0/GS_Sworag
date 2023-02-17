@@ -215,6 +215,7 @@ color: rgb(230, 27, 27);
 }
 
 .thumbnail-R img{
+     margin-left: 500px;
     width: 250px;
     border: 2px solid black;
     border-radius: 26px;
